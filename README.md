@@ -81,8 +81,8 @@ fruit-spoilage-app/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
-cd fruit-spoilage-app
+git clone https://github.com/IshaanMig2507/FruiTwin.git
+cd FruiTwin
 ```
 
 ### 2. Create virtual environment
